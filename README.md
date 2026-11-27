@@ -1,4 +1,4 @@
-![Quarry Labs](assets/quarry-labs-banner-wordmark.jpg)
+![Quarry Labs](assets/quarry-labs-banner-labradorite.jpg)
 
 Hands-on networking labs, infrastructure projects, and software experiments.
 
